@@ -10,7 +10,7 @@ namespace work1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hi my best friend");
+            Console.WriteLine("hi my friend");
             Console.ReadKey();
         }
     }
